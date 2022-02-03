@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 100px;
+    font-size: 30px;
+    color: tomato;
+}
+#btn{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aqua;
+    font: 1em sans-serif;
+}#text{
+    height: 30px;
+    font-size: 20px;
+}
+.addedNote{
+    background-color: yellow;
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
